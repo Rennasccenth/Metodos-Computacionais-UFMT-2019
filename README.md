@@ -1,4 +1,4 @@
-###**Trabalho de métodos computacionais** - Felipe Nunes
+### **Trabalho de métodos computacionais** - Felipe Nunes
 
     As instruções abaixo estão dividas nos módulos e para cada método do respectivo módulo, dá-se 
     o exemplo de entrada em JSON em seguida da explicação dos parâmetros utilizados no mesmo.
